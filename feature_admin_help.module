@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Admin Help feature.
+ */
+
+include_once('feature_admin_help.features.inc');
